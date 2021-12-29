@@ -1,0 +1,13 @@
+
+Os algoritmos são a linguagem lógica do computador, a forma com que eles são programados para realizarem as tarefas que desejamos.
+
+
+Estruturas de dadosmais utilizadas:
+
+Listas
+
+Arvores
+
+Grafos
+
+Tabelas Hash

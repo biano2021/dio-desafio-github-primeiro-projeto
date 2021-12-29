@@ -1,0 +1,3 @@
+A Lógica de Programação envolve, a capacidade de ler e escrever uma linguagem e pensar nela de forma computacional.
+
+Link do curso para rever em caso de necessidade : https://web.dio.me/course/logica-de-programacao-essencial/learning/aea1ea26-fd56-417d-8272-6e15253f4405?back=/track/cognizant-java-developer
