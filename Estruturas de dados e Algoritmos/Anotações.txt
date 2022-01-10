@@ -1,8 +1,8 @@
 
-Os algoritmos s„o a linguagem lÛgica do computador, a forma com que eles s„o programados para realizarem as tarefas que desejamos.
+Os algoritmos s√£o a linguagem l√≥gica do computador, a forma com que eles s√£o programados para realizarem as tarefas que desejamos.
 
 
-Estruturas de dadosmais utilizadas:
+Estruturas de dados mais utilizadas:
 
 Listas
 
